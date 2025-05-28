@@ -11,7 +11,7 @@ This extension just toggles all the extensions installed in the browser.
 
 ## Installation
 
-1. Open Chrome and go to chrome://extensions/.
+1. Open Chrome and go to `chrome://extensions/.`
 2. Turn on "Developer mode" using the toggle in the top right corner.
 3. Click on "Load unpacked".
 4. Navigate to and select the folder where you created the extension.
